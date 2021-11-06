@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+ 
+<remote name="bhargavpalan"
+		fetch="https://github.com/bhargavpalan" />
 
  <!-- Trees -->
  <project path="device/xiaomi/vince" name="LineageOS/android_device_xiaomi_vince.git" remote="github" revision="lineage-18.1" />
