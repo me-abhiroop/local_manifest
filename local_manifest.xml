@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/vince" name="LineageOS/android_device_xiaomi_vince.git" remote="github" revision="lineage-18.1" />
+ <project path="vendor/vince" name="the-muppets/proprietary_vendor_xiaomi/vince.git" remote="gitlab" revision="lineage-18.1" />
+ <project path="kernel/vince" name="Blacksuan19/kernel_dark_ages_vince.git" remote="github" revision="darky" />
+ 
+</manifest>
