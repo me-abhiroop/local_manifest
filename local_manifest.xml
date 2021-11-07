@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
  
-<remote name="bhargavpalan"
-		fetch="https://github.com/bhargavpalan" />
 
  <!-- Trees -->
  <project path="device/xiaomi/vince" name="me-abhiroop/device_xiaomi_vince" remote="github" revision="arrow" />
- <project path="device/xiaomi/msm8953-common" name="device_xiaomi_msm8953-common" remote="bhargavpalan" revision="11" />	
  <project path="vendor/xiaomi/vince" name="me-abhiroop/vendor_xiaomi_vince.git" remote="github" revision="main" />
  <project path="kernel/xiaomi/vince" name="Blacksuan19/kernel_dark_ages_vince.git" remote="github" revision="darky" />
  
